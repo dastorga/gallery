@@ -13,3 +13,7 @@ img:hover {
 .image-gallery {
 	height: 170px !important;
 }
+
+a:hover {
+	cursor:pointer
+}

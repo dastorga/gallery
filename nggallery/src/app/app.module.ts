@@ -1,3 +1,4 @@
+import { routes } from './app.routes';
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { ImageService } from './services/image.service';
@@ -12,7 +13,6 @@ import { ImageDetailComponent } from './gallery/image-detail/image-detail.compon
 import { ContactComponent } from './contact/contact.component';
 import { AboutComponent } from './about/about.component';
 
-
 @NgModule({
   declarations: [
     AppComponent,
@@ -25,6 +25,7 @@ import { AboutComponent } from './about/about.component';
     AboutComponent
   ],
   imports: [
+    routes,
     BrowserModule
   ],
   providers: [ImageService],

@@ -97,7 +97,27 @@ export class ImageService {
    new Image('1','Primera imagen', 'Descripción primera imagen',
    'https://github.com/dastorga/gallery/blob/master/nggallery/src/assets/img/45.jpg?raw=true', 'https://github.com/dastorga/gallery/blob/master/nggallery/src/assets/img/45.jpg?raw=true'),
    new Image('1','Primera imagen', 'Descripción primera imagen',
-	 'https://github.com/dastorga/gallery/blob/master/nggallery/src/assets/img/46.jpg?raw=true', 'https://github.com/dastorga/gallery/blob/master/nggallery/src/assets/img/46.jpg?raw=true')
+   'https://github.com/dastorga/gallery/blob/master/nggallery/src/assets/img/46.jpg?raw=true', 'https://github.com/dastorga/gallery/blob/master/nggallery/src/assets/img/46.jpg?raw=true'),
+   new Image('1','Primera imagen', 'Descripción primera imagen',
+   'https://github.com/dastorga/gallery/blob/master/nggallery/src/assets/img/47.jpg?raw=true', 'https://github.com/dastorga/gallery/blob/master/nggallery/src/assets/img/47.jpg?raw=true'),
+   new Image('1','Primera imagen', 'Descripción primera imagen',
+   'https://github.com/dastorga/gallery/blob/master/nggallery/src/assets/img/48.jpg?raw=true', 'https://github.com/dastorga/gallery/blob/master/nggallery/src/assets/img/48.jpg?raw=true'),
+   new Image('1','Primera imagen', 'Descripción primera imagen',
+   'https://github.com/dastorga/gallery/blob/master/nggallery/src/assets/img/49.jpg?raw=true', 'https://github.com/dastorga/gallery/blob/master/nggallery/src/assets/img/49.jpg?raw=true'),
+   new Image('1','Primera imagen', 'Descripción primera imagen',
+   'https://github.com/dastorga/gallery/blob/master/nggallery/src/assets/img/50.jpg?raw=true', 'https://github.com/dastorga/gallery/blob/master/nggallery/src/assets/img/50.jpg?raw=true'),
+   new Image('1','Primera imagen', 'Descripción primera imagen',
+   'https://github.com/dastorga/gallery/blob/master/nggallery/src/assets/img/51.jpg?raw=true', 'https://github.com/dastorga/gallery/blob/master/nggallery/src/assets/img/51.jpg?raw=true'),
+   new Image('1','Primera imagen', 'Descripción primera imagen',
+   'https://github.com/dastorga/gallery/blob/master/nggallery/src/assets/img/52.jpg?raw=true', 'https://github.com/dastorga/gallery/blob/master/nggallery/src/assets/img/52.jpg?raw=true'),
+   new Image('1','Primera imagen', 'Descripción primera imagen',
+   'https://github.com/dastorga/gallery/blob/master/nggallery/src/assets/img/53.jpg?raw=true', 'https://github.com/dastorga/gallery/blob/master/nggallery/src/assets/img/53.jpg?raw=true'),
+   new Image('1','Primera imagen', 'Descripción primera imagen',
+   'https://github.com/dastorga/gallery/blob/master/nggallery/src/assets/img/54.jpg?raw=true', 'https://github.com/dastorga/gallery/blob/master/nggallery/src/assets/img/54.jpg?raw=true'),
+   new Image('1','Primera imagen', 'Descripción primera imagen',
+   'https://github.com/dastorga/gallery/blob/master/nggallery/src/assets/img/55.jpg?raw=true', 'https://github.com/dastorga/gallery/blob/master/nggallery/src/assets/img/55.jpg?raw=true'),
+   new Image('1','Primera imagen', 'Descripción primera imagen',
+	 'https://github.com/dastorga/gallery/blob/master/nggallery/src/assets/img/56.jpg?raw=true', 'https://github.com/dastorga/gallery/blob/master/nggallery/src/assets/img/56.jpg?raw=true')
 	];
   constructor() { }
 
